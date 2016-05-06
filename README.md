@@ -1,3 +1,1 @@
-pipeline for ATACseq data analysis
-Not complelete yet
-
+New ATACseq pipeline with pipyper 
