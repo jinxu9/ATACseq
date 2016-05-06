@@ -1,1 +1,2 @@
-New ATACseq pipeline with pipyper 
+New ATACseq pipeline based on pipyper.
+
